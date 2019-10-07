@@ -6,3 +6,6 @@
 bonjour tout le monde
 </BODY>
 </HTML>
+body{
+color: red ;
+}
